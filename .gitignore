@@ -19,3 +19,5 @@ test-vault/.obsidian/plugins/dataview/*.json
 
 lib
 yarn.lock
+
+**/.DS_STORE
